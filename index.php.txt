@@ -1,0 +1,27 @@
+<html>
+	<head>
+		<title>Editor HTML Online</title>
+	</head>
+	<body>
+		<hr />
+		<p style="text-align: center;">
+			TESTE</p>
+		<center>
+			<table border="1" cellpadding="1" cellspacing="1" style="width: 500px;">
+				<tbody>
+					<tr>
+						<td>
+							THIS IS ONE TEST YOUR APP GAME</br>
+THIS APP IS MAKE FOR CRONUSMAKER</td>
+					</tr>
+				</tbody>
+			</table>
+		</center>
+		<hr />
+		<p>
+			forum : suport : info : donate : sugestions : free to play : goal bonus</p>
+		<hr />
+		<p>
+			&nbsp;</p>
+	</body>
+</html>
